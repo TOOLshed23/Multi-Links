@@ -1,0 +1,12 @@
+html {
+    /*Everything in here will design the HTML element*/
+     background-color: rgb(122, 126, 139)3);
+}
+
+h1 {
+    color: black;
+}
+body {
+    display: block;
+    margin: 0;
+}
